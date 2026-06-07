@@ -26,7 +26,7 @@ function Register() {
           <div className="bg-cyan-500 text-white text-xl font-bold w-10 h-10 flex items-center justify-center rounded-full">
             J
           </div>
-          <h1 className="ml-2 text-2xl text-cyan-600 font-semibold">Jobify</h1>
+          <h1 className="ml-2 text-2xl text-cyan-600 font-semibold">WorkSyra</h1>
         </div>
         <h2 className="text-xl font-semibold text-center mb-4">Register</h2>
         <form onSubmit={handleRegister} className="space-y-4">
