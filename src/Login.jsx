@@ -24,7 +24,7 @@ function Login() {
       <div className="bg-white shadow-lg rounded-lg p-8 w-full max-w-md">
         <div className="flex items-center justify-center mb-6">
           <div className="bg-cyan-500 text-white text-xl font-bold w-10 h-10 flex items-center justify-center rounded-full">
-            J
+            W
           </div>
           <h1 className="ml-2 text-2xl text-cyan-600 font-semibold">WorkSyra</h1>
         </div>
